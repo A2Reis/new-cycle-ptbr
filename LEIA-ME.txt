@@ -1,0 +1,72 @@
+============================================================
+ TRADUÇÃO PT-BR (NÃO-OFICIAL) — NEW CYCLE
+============================================================
+
+Tradução para português do Brasil da interface, tutoriais, eventos e
+textos do New Cycle (3.842 textos). Feita pela comunidade, NÃO-OFICIAL,
+sem qualquer vínculo com a Core Engage / Daedalic Entertainment.
+
+Use por sua conta e risco. É só para quem JÁ POSSUI o jogo na Steam.
+
+------------------------------------------------------------
+ COMO INSTALAR (mais fácil — sem instalar nada)
+------------------------------------------------------------
+1) Feche o New Cycle.
+2) Dê duplo-clique em  aplicar.exe
+   - O Windows pode mostrar um aviso azul (SmartScreen), porque o
+     programa não é assinado. Clique em "Mais informações" e depois
+     "Executar assim mesmo". (É um aplicador simples; o código-fonte
+     aberto está em aplicar.py, pode conferir.)
+   - Ele acha o jogo sozinho na Steam, faz BACKUP do original,
+     instala a tradução e ajusta o catálogo.
+3) Abra o jogo:  Settings -> Language -> ENGLISH
+   (a tradução foi posta por cima do inglês — escolha "English" para
+   ver tudo em português.)
+
+Se o jogo NÃO estiver na pasta padrão da Steam, arraste a pasta do
+"New Cycle" para cima do aplicar.exe (ou rode pelo terminal:
+   aplicar.exe "C:\caminho\do\New Cycle"  )
+
+------------------------------------------------------------
+ ALTERNATIVA (se o Windows bloquear o .exe de vez)
+------------------------------------------------------------
+Instale o Python (https://www.python.org/downloads/ , marque
+"Add Python to PATH") e dê duplo-clique em  aplicar.py  — faz o mesmo.
+
+------------------------------------------------------------
+ COMO DESINSTALAR / VOLTAR AO ORIGINAL
+------------------------------------------------------------
+Dê duplo-clique em  "DESINSTALAR (voltar ao original).bat"
+(ou rode:  aplicar.exe restaurar )
+
+------------------------------------------------------------
+ DEPOIS DE UM UPDATE DA STEAM (ou "Verify Integrity")
+------------------------------------------------------------
+A Steam sobrescreve a tradução quando atualiza/verifica os arquivos.
+É só rodar o aplicar.exe de novo.
+
+------------------------------------------------------------
+ O QUE VEM AQUI
+------------------------------------------------------------
+- aplicar.exe ............................ instalador (1 clique)
+- aplicar.py ............................. mesmo aplicador, em Python (alternativa)
+- DESINSTALAR (voltar ao original).bat ... desinstalador
+- localization-string-tables-english(en)_assets_all.bundle ... a tradução
+- traducao.json .......................... os textos (para revisão/reuso)
+- LEIA-ME.txt ............................ este arquivo
+NÃO contém nenhum arquivo original do jogo.
+
+------------------------------------------------------------
+ AVISOS
+------------------------------------------------------------
+- Tradução NÃO-OFICIAL. O estúdio pretende lançar um PT-BR oficial;
+  quando sair, prefira o oficial.
+- Funciona melhor na MESMA versão do jogo usada nesta tradução.
+  Em versão muito diferente o aplicador avisa e NÃO quebra nada.
+- Single-player; mexe só nos arquivos de texto locais, e faz backup
+  automático (.orig.bak). Para reverter, use o desinstalador.
+- Traduzido com auxílio de IA (Claude) + glossário; pode ter trechos
+  a melhorar. Feedback é bem-vindo.
+
+Créditos: tradução por [SEU NOME/NICK AQUI].
+============================================================
