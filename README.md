@@ -4,6 +4,8 @@ Tradução para **português do Brasil** da interface, tutoriais, eventos e text
 
 > ⚠️ **Tradução NÃO-OFICIAL**, feita pela comunidade, **sem vínculo** com a Core Engage / Daedalic Entertainment. O estúdio pretende lançar um PT-BR oficial — quando sair, prefira o oficial. Use por sua conta e risco. Funciona apenas para quem **já possui o jogo**.
 
+**Versão da tradução:** v1.0.1 · feita para o jogo **Alpha 25-300.01** (build Steam `22500225`). Pode funcionar em versões próximas; após um update da Steam, rode o `aplicar.exe` de novo.
+
 ## 📥 Download
 
 Baixe o ZIP mais recente na aba **[Releases](../../releases)**.
@@ -33,5 +35,5 @@ A Steam sobrescreve a tradução. É só rodar o `aplicar.exe` de novo.
 - Algum texto eventualmente "queimado" em imagem (ex.: logo).
 
 ## 🙏 Créditos
-Tradução por **[seu nome/nick aqui]**. Feita com auxílio de IA (Claude) + glossário.
+Tradução por **A2Reis**. Feita com auxílio de IA + glossário.
 Feedback e correções são bem-vindos nas *Issues*.

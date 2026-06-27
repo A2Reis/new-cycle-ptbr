@@ -8,6 +8,8 @@ sem qualquer vínculo com a Core Engage / Daedalic Entertainment.
 
 Use por sua conta e risco. É só para quem JÁ POSSUI o jogo na Steam.
 
+Versão da tradução: v1.0.1  |  feita para o jogo Alpha 25-300.01 (build Steam 22500225).
+
 ------------------------------------------------------------
  COMO INSTALAR (mais fácil — sem instalar nada)
 ------------------------------------------------------------
@@ -68,5 +70,5 @@ NÃO contém nenhum arquivo original do jogo.
 - Traduzido com auxílio de IA (Claude) + glossário; pode ter trechos
   a melhorar. Feedback é bem-vindo.
 
-Créditos: tradução por [SEU NOME/NICK AQUI].
+Créditos: tradução por A2Reis.
 ============================================================
