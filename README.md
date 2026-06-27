@@ -1,4 +1,4 @@
-# 🇧🇷 Tradução PT-BR (não-oficial) — New Cycle
+# 🇧🇷 Tradução PT-BR (não-oficial) - New Cycle
 
 Tradução para **português do Brasil** da interface, tutoriais, eventos e textos do jogo **New Cycle** (Unity 6 / IL2CPP). Cobre o sistema de localização do jogo (~3.842 textos).
 
@@ -24,9 +24,6 @@ Se o jogo não estiver na pasta padrão da Steam, arraste a pasta do "New Cycle"
 ### Alternativa (se o Windows bloquear o .exe)
 Instale o [Python](https://www.python.org/downloads/) (marque *Add Python to PATH*) e dê duplo-clique em **`aplicar.py`** — faz o mesmo.
 
-## ↩️ Desinstalar / voltar ao original
-Duplo-clique em **`DESINSTALAR (voltar ao original).bat`** (ou rode `aplicar.exe restaurar`).
-
 ## 🔄 Depois de um update da Steam (ou "Verify Integrity")
 A Steam sobrescreve a tradução. É só rodar o `aplicar.exe` de novo.
 
@@ -35,5 +32,5 @@ A Steam sobrescreve a tradução. É só rodar o `aplicar.exe` de novo.
 - Algum texto eventualmente "queimado" em imagem (ex.: logo).
 
 ## 🙏 Créditos
-Tradução por **A2Reis**. Feita com auxílio de IA + glossário.
+Tradução por **A2Reis**.
 Feedback e correções são bem-vindos nas *Issues*.
