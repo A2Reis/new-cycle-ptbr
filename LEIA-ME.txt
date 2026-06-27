@@ -67,8 +67,7 @@ NÃO contém nenhum arquivo original do jogo.
   Em versão muito diferente o aplicador avisa e NÃO quebra nada.
 - Single-player; mexe só nos arquivos de texto locais, e faz backup
   automático (.orig.bak). Para reverter, use o desinstalador.
-- Traduzido com auxílio de IA (Claude) + glossário; pode ter trechos
-  a melhorar. Feedback é bem-vindo.
+- Pode ter trechos a melhorar. Feedback é bem-vindo.
 
 Créditos: tradução por A2Reis.
 ============================================================
